@@ -12,6 +12,6 @@ section will form the changelog for v2.0.
 - Added support for Python3, meaning that Ashlar supports Python versions 2.7,
   3.4, 3.5, and 3.6 ([#82](https://github.com/azavea/ashlar/pull/82))
 
-## Legacy
+## 1.0 
 
-Initial version of Ashlar.
+Initial release of Ashlar.
