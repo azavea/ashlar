@@ -19,7 +19,7 @@ setup(
         'Django ==1.8.6',
         'djangorestframework >=3.1.1',
         'djangorestframework-gis >=0.8.1',
-        'django-filter >=0.9.2',
+        'django-filter >=0.9.2, <2.0.0',
         'djsonb >=0.2.2',
         'jsonschema >=2.4.0',
         'psycopg2 >=2.6',
