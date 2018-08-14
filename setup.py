@@ -6,7 +6,7 @@ tests_require = []
 
 setup(
     name='ashlar',
-    version='0.0.2',
+    version='0.0.3',
     description='Define and validate schemas for metadata for geotemporal event records',
     author='Azavea, Inc.',
     author_email='info@azavea.com',
